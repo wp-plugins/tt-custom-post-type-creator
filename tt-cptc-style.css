@@ -1,0 +1,71 @@
+h3.hndle{
+    margin-left: 12px;;
+}
+
+#adminmenu #toplevel_page_tt-cptc-main-menu div.wp-menu-image:before {
+    content: '\f175';
+}
+
+.form-table th a#info{
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 0px 6px;
+    background-color: #999999;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.multi-check{
+    margin-bottom: 5px;
+}
+.widefat#tt-cptc thead th.tt-cptc-cell{
+    font-weight: bold;
+    background-color: #444;
+    color: #FFF;
+}
+.widefat#tt-cptc thead th.tt-cptc-cell, .widefat#tt-cptc th.tt-cptc-cell{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.widefat#tt-cptc th.tt-cptc-cell#details{
+    width: 40%;
+}
+
+.widefat#tt-cptc tr:nth-child(odd){
+    background-color:#fff;
+}
+.widefat#tt-cptc tr:nth-child(even){
+    background-color:#efefef;
+}
+.config-details{
+    float: left;
+    width: 100%;
+}
+
+.info-title{
+    font-weight: bold;
+    margin: 0 5px 0 0;
+    float: left;
+    color: #336699;
+    width: 30%;
+}
+.config-info{
+    width: 67%;
+    float: right;
+    border: 1px solid #ccc;
+}
+.multi-check#disp{
+    margin-left: 31%;
+    
+}
+
+.config-list strong{
+    color: #084B8A;
+    font-weight: bolder;
+    background: #CEE3F6;
+    padding: 2px;
+    border-radius: 3px;
+}
